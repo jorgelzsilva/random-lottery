@@ -11,7 +11,7 @@ print('-' * 50)
 sequencia = []
 cont = cont_4 = cont_5 = 0
 primeira_quadra = 0
-primeira_quina= 0
+primeira_quina = 0
 seq_quadra = []
 seq_quina = []
 
